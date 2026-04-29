@@ -1,0 +1,9 @@
+
+// IMPORT SERVICE
+// LOOP BLOOCKS, RENDER EACH "block-card-elem" FOR EACH BLOCK
+// CONNECT "mine-btn" TO ChainService.mine()
+
+// VIEW:
+// SHOW LIST OF ALL BLOCKS IN CHAIIN, EACH BLOCKS REL. INFO
+// "mine-btn" TO TRIGGER PoW (server) 
+// RE-RENDER WHEN UPDATED

@@ -1,2 +1,0 @@
-// DENO HTTP SERVER
-// PORT: 8000

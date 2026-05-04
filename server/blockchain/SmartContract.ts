@@ -1,5 +1,7 @@
 
 // type "constant" (instead of interface)
+
+// 
 export type ContractState = "locked" | "confirmed" | "released"
 
 export interface Contract {
@@ -13,6 +15,7 @@ export interface Contract {
     releasedAt: string | null
 }
 
+// CONTRACT
 export function lockContract(from: string, to: string, amount: number): Contract {
     // New contract - "locked"
     return {

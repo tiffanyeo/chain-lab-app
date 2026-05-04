@@ -1,4 +1,3 @@
-import { Block } from "./Blockchain";
 
 // SHA-256
 export async function SHA256(data: string): Promise<string> {

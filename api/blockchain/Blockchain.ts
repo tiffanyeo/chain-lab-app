@@ -1,4 +1,3 @@
-// BLOCK + CHAIN
 
 import { SHA256 } from "./Hash";
 
